@@ -1,0 +1,4 @@
+- Home - ok
+- Vista per la visualizzazione dei libri - ok
+- Vista per il dettaglio dei singoli libri
+- Vista feedback utenti
